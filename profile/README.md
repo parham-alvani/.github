@@ -31,12 +31,25 @@ under version control instead of scattered across cloud services we don't own.
 Most of it is **private**, and that's the point: it exists, it's backed up, it's
 ours. What you *can* see below are the pieces we're happy to share.
 
-## 🌍 Public projects
+## 🛠️ Tools that work for us
+
+We write our own tools — and we keep them **next to the data they serve**,
+not in a separate "projects" org. `notes-cli` cleans up `notes`.
+`koochooloo-bot` writes the reports in `koochooloo-stats`. They live here
+because this is where their work is.
+
+They're public in case they're useful to you too — but they were built to
+solve our problems first, and that's the only requirement they have to meet.
+
+| Tool | What it does | Works on |
+| --- | --- | --- |
+| [**notes-cli**](https://github.com/parham-alvani/notes-cli) `Python` | Cleans up markdown notes — drops unreferenced images, optimizes the rest to sub-1MB JPGs, and rewrites the links. | `notes` 🔒 |
+| [**koochooloo-bot**](https://github.com/parham-alvani/koochooloo-bot) `Python` | Instagram follower analysis — ghost followers, non-mutuals, per-post engagement. Built on `instagrapi`. | `koochooloo-stats` 🔒 |
+
+## 🌍 Other public things
 
 | Project | What it is |
 | --- | --- |
-| [**notes-cli**](https://github.com/parham-alvani/notes-cli) `Python` | Cleans up markdown notes — drops unreferenced images, optimizes the rest to sub-1MB JPGs, and rewrites the links. |
-| [**koochooloo-bot**](https://github.com/parham-alvani/koochooloo-bot) `Python` | Instagram follower analysis — ghost followers, non-mutuals, per-post engagement. Built on `instagrapi`. |
 | [**wedding**](https://github.com/parham-alvani/wedding) `Go` `Astro` | Let's get married 🤵👰 — the site and RSVP service behind our wedding day. |
 | [**entertainment**](https://github.com/parham-alvani/entertainment) `Python` | Every escape room, cinema, and attraction we've been to, together. |
 | [**dishes**](https://github.com/parham-alvani/dishes) | Elaheh makes awesome dishes 🍲 — they were far too good not to be archived. |
@@ -51,7 +64,7 @@ You can't open these, but here's the shape of what's in them:
 
 - 📝 **Life in markdown** — `notes`, `tabs`, `habits`, `calendar`, `travels`
 - 🗄️ **The paperwork** — `documents`, `addressbook`, `handy`, `keys`
-- 🔑 **Secrets, done properly** — `passwords` (gopass), `enpass`, `blobs`
+- 🔑 **Secrets, done properly** — `passwords` (gopass), `enpass`
 - 🤖 **Tooling & experiments** — `claude-code-memory`, `koochooloo-stats`
 - 🕰️ **The archive** — `old-but-gold`, `ledger`, `books`, `sarbazi`, and
   everything else we outgrew over the years but refused to delete
