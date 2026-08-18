@@ -53,8 +53,8 @@ You can't open these, but here's the shape of what's in them:
 - 🗄️ **The paperwork** — `documents`, `addressbook`, `handy`, `keys`
 - 🔑 **Secrets, done properly** — `passwords` (gopass), `enpass`, `blobs`
 - 🤖 **Tooling & experiments** — `claude-code-memory`, `koochooloo-stats`
-- 🕰️ **The archive** — years of `old-but-gold`, `ledger`, `books`, `military`,
-  `interviews`, and everything else we outgrew but refused to delete
+- 🕰️ **The archive** — `old-but-gold`, `ledger`, `books`, and everything else
+  we outgrew over the years but refused to delete
 
 ## 🧰 How we build things
 
