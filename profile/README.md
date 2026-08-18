@@ -6,12 +6,12 @@
 
 ### Hello :wave: — welcome to our little corner of GitHub
 
-**Elahe** & **Parham** — two people who decided that if something matters,
+**Elaheh** & **Parham** — two people who decided that if something matters,
 it deserves a repository, a commit message, and a backup.
 
-<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/20200220_200409.jpg" alt="Elahe and Parham on 20 February 2020" width="620">
+<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/20200220_200409.jpg" alt="Elaheh and Parham on 20 February 2020" width="620">
 
-*20 February 2020 — Parham's first birthday with Elahe,<br>
+*20 February 2020 — Parham's first birthday with Elaheh,<br>
 exactly one week after our story began on 13 February 2020.* 🎂
 
 [![website](https://img.shields.io/badge/1995parham.me-informational?style=flat-square&logo=hugo&logoColor=white)](https://1995parham.me)
@@ -39,7 +39,7 @@ ours. What you *can* see below are the pieces we're happy to share.
 | [**koochooloo-bot**](https://github.com/parham-alvani/koochooloo-bot) `Python` | Instagram follower analysis — ghost followers, non-mutuals, per-post engagement. Built on `instagrapi`. |
 | [**wedding**](https://github.com/parham-alvani/wedding) `Go` `Astro` | Let's get married 🤵👰 — the site and RSVP service behind our wedding day. |
 | [**entertainment**](https://github.com/parham-alvani/entertainment) `Python` | Every escape room, cinema, and attraction we've been to, together. |
-| [**dishes**](https://github.com/parham-alvani/dishes) | Elahe makes awesome dishes 🍲 — they were far too good not to be archived. |
+| [**dishes**](https://github.com/parham-alvani/dishes) | Elaheh makes awesome dishes 🍲 — they were far too good not to be archived. |
 | [**wallpapers**](https://github.com/parham-alvani/wallpapers) | Pictures of us, sized and shipped to every screen we own 😍 |
 | [**wallpapers-sfw**](https://github.com/parham-alvani/wallpapers-sfw) | The same idea, but safe for work 🙈 |
 | [**browser-wallpapers**](https://github.com/parham-alvani/browser-wallpapers) | New-tab backgrounds for Edge, Chrome, and friends. |
@@ -80,6 +80,6 @@ and a strong preference for owning our own data.
 
 <img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/sticker.gif" alt="two cats hugging" width="110">
 
-*Kept with ❤️ by Elahe & Parham*
+*Kept with ❤️ by Elaheh & Parham*
 
 </div>
