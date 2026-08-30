@@ -9,7 +9,7 @@
 **Elaheh** & **Parham** — two people who decided that if something matters,
 it deserves a repository, a commit message, and a backup.
 
-<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/20200220_200409.jpg" alt="Elaheh and Parham on 20 February 2020" width="620">
+<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/20200220_200409-enhanced.jpg" alt="Elaheh and Parham on 20 February 2020" width="620">
 
 *20 February 2020 — Parham's first birthday with Elaheh,<br>
 exactly one week after our story began on 13 February 2020.* 🎂
