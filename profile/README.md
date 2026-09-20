@@ -9,10 +9,9 @@
 **Elaheh** & **Parham** — two people who decided that if something matters,
 it deserves a repository, a commit message, and a backup.
 
-<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/20200220_200409-enhanced.jpg" alt="Elaheh and Parham on 20 February 2020" width="620">
+<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/bamland-esfand-1401.jpg" alt="Elaheh and Parham at Bamland, Esfand 1401" width="620">
 
-*20 February 2020 — Parham's first birthday with Elaheh,<br>
-exactly one week after our story began on 13 February 2020.* 🎂
+*Esfand 1401 — a coffee together at Bamland.* ☕
 
 [![website](https://img.shields.io/badge/1995parham.me-informational?style=flat-square&logo=hugo&logoColor=white)](https://1995parham.me)
 [![repos](https://img.shields.io/badge/repositories-45+-blue?style=flat-square&logo=github)](https://github.com/orgs/parham-alvani/repositories)
