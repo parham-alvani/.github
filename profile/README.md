@@ -9,9 +9,10 @@
 **Elaheh** & **Parham** — two people who decided that if something matters,
 it deserves a repository, a commit message, and a backup.
 
-<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/bamland-esfand-1401.jpg" alt="Elaheh and Parham at Bamland, Esfand 1401" width="620">
+<img src="https://raw.githubusercontent.com/parham-alvani/.github/main/img/sagrada-familia-january-2026.jpg" alt="Elaheh and Parham in front of the Sagrada Família, Barcelona, January 4, 2026" width="620">
 
-*Esfand 1401 — a coffee together at Bamland.* ☕
+*January 4, 2026 — a selfie under the Sagrada Família in Barcelona.* ⛪<br>
+*4 de enero de 2026 — un selfi bajo la Sagrada Família en Barcelona.*
 
 [![website](https://img.shields.io/badge/1995parham.me-informational?style=flat-square&logo=hugo&logoColor=white)](https://1995parham.me)
 [![repos](https://img.shields.io/badge/repositories-45+-blue?style=flat-square&logo=github)](https://github.com/orgs/parham-alvani/repositories)
